@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice5", "Practice5\Practice5.csproj", "{187AAD3F-7D08-4DD2-B918-826BC98BE956}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice5EF", "Practice5EF\Practice5EF.csproj", "{0175542B-F1A2-412F-8662-1E64495131D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{B4E2D06C-29E6-409F-B930-F790A2987783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187AAD3F-7D08-4DD2-B918-826BC98BE956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187AAD3F-7D08-4DD2-B918-826BC98BE956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187AAD3F-7D08-4DD2-B918-826BC98BE956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187AAD3F-7D08-4DD2-B918-826BC98BE956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0175542B-F1A2-412F-8662-1E64495131D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0175542B-F1A2-412F-8662-1E64495131D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0175542B-F1A2-412F-8662-1E64495131D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0175542B-F1A2-412F-8662-1E64495131D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E2D06C-29E6-409F-B930-F790A2987783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E2D06C-29E6-409F-B930-F790A2987783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E2D06C-29E6-409F-B930-F790A2987783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E2D06C-29E6-409F-B930-F790A2987783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B039C0F-6EEE-443D-AFC0-CA7933A70770}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\bin\Debug\netcoreapp2.1\Practice5EF.dll.config
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\bin\Debug\netcoreapp2.1\Practice5EF.deps.json
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\bin\Debug\netcoreapp2.1\Practice5EF.runtimeconfig.json
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\bin\Debug\netcoreapp2.1\Practice5EF.runtimeconfig.dev.json
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\bin\Debug\netcoreapp2.1\Practice5EF.dll
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\obj\Debug\netcoreapp2.1\Practice5EF.csprojAssemblyReference.cache
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\obj\Debug\netcoreapp2.1\Practice5EF.AssemblyInfoInputs.cache
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\obj\Debug\netcoreapp2.1\Practice5EF.AssemblyInfo.cs
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\bin\Debug\netcoreapp2.1\Practice5EF.pdb
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\obj\Debug\netcoreapp2.1\Practice5EF.dll
+C:\Users\Anton Hunko\source\repos\Practice5\Practice5EF\obj\Debug\netcoreapp2.1\Practice5EF.pdb
